@@ -2,7 +2,6 @@ import string
 import random
 
 def randomString(letters,stringLength=8):
-    return ''.
     return ''.join(random.choice(letters) for i in range(stringLength))
 
 if __name__ == '__main__':
