@@ -11,4 +11,4 @@ if __name__ == '__main__':
 
     print(s)    
     
-    
+    length = int(input("Enter re"))
