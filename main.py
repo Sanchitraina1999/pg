@@ -9,5 +9,5 @@ if __name__ == '__main__':
     s += string.ascii_uppercase
     s += string.digits
     s += string.punctuation  
-    length = int(input("Enter required length of password: "))
+    length = input("Enter required length of password: ")
     print("Password: ", randomString(s,length))
