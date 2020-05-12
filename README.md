@@ -2,4 +2,4 @@
 
 _A random password Generator!_
 
-()![Screenshot.png]
+![](Screenshot.png)
