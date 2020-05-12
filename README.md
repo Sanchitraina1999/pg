@@ -1,5 +1,5 @@
 # pg
 
-_A random password Generator!
+_A random password Generator!_
 
-()[Screenshot.png]_
+()![Screenshot.png]
