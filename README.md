@@ -2,4 +2,4 @@
 
 _A random password Generator!
 
-()[Screenshot.pnh]_
+()[Screenshot.png]_
